@@ -1,7 +1,7 @@
 titan-source
 ============
 
-Source of titan music player.
+Source of titan music player (Eclipse ADT source, Version 0.1).
 
 for more info,
 head over to the following link:
